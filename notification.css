@@ -1,6 +1,6 @@
 .siteFilterNotification {
     z-index: 10000000000000;
-    position: absolute;
+    position: fixed;
     top: -130px;
     left: -160px;
 
